@@ -1,4 +1,4 @@
-# CTF-Write-Ups
+# HTB Business CTF-Write-Ups
 A repo to stores write ups for CTFs challenges 
 
 # [HTB business CTF 2023 - The Great Escape](https://www.hackthebox.com/events/htb-business-ctf-2023)
